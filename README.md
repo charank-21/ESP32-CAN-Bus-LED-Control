@@ -36,10 +36,7 @@ The transmitter ESP32 sends control data through the CAN bus. The receiver ESP32
 
 ## Project Files
 
-- Source Code
-- Circuit Diagram
-- Wiring Diagram
-- Project Documentation
+- Project Working video
 
 ## Author
 
